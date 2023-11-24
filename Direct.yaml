@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-28 02:12:49
+# UPDATED: 2023-11-24 10:37:42
 # DOMAIN: 35
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 128
@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,gfxpeers.net
+  - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,hd-space.org
   - DOMAIN-SUFFIX,hd4.xyz
   - DOMAIN-SUFFIX,hd4fans.org
